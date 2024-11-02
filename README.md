@@ -1,4 +1,8 @@
-
+Задание 
+Ниже приведен вывод terraform apply
+Который создает в облаке 3 вм
+С помощью cloud-init задаются нужные параметры и устанавливаются нужные пакеты
+Запуск playbook происходит после завершения работы cloud-init 
 ```
 sypchik@Mirror:/mnt/c/Users/Sypchik/Desktop/home work/ansible/mnt-homeworks/08-ansible-03-yandex$ terraform apply --auto-approve
 data.template_file.cloudinit: Reading...
@@ -757,3 +761,10 @@ clickhouse.ru-central1.internal :) exit
 Bye.
 ubuntu@clickhouse:~$
 ```
+Ниже приведены скрины с запущенными сервисами
+
+![Screenshot 2024-11-03 012234](https://github.com/user-attachments/assets/375d5e31-c7c2-4890-a3d5-4901227e28f3)
+
+![Screenshot 2024-09-16 215645](https://github.com/user-attachments/assets/cbf05bf9-0a88-4ed2-8ae7-8a67e73963e1)
+
+
