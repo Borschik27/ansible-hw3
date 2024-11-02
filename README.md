@@ -691,6 +691,7 @@ vm_details = {
 sypchik@Mirror:/mnt/c/Users/Sypchik/Desktop/home work/ansible/mnt-homeworks/08-ansible-03-yandex$
 ```
 
+Vector
 ```
 sypchik@Mirror:/mnt/c/Users/Sypchik/Desktop/home work/ansible/mnt-homeworks/08-ansible-03-yandex$ ssh ubuntu@89.169.158.158
 Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.4.0-198-generic x86_64)
@@ -721,6 +722,7 @@ Loaded with warnings ["/etc/vector/vector.yaml"]
 ubuntu@vector:~$
 ```
 
+lighhouse
 ```
 sypchik@Mirror:/mnt/c/Users/Sypchik/Desktop/home work/ansible/mnt-homeworks/08-ansible-03-yandex$ ssh ubuntu@89.169.132.53
 Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.4.0-198-generic x86_64)
@@ -736,6 +738,7 @@ ubuntu@lighthouse:~$ w3m /opt/lighthouse/index.html
 
 ```
 
+Clickhouse
 ```
 sypchik@Mirror:/mnt/c/Users/Sypchik/Desktop/home work/ansible/mnt-homeworks/08-ansible-03-yandex$ ssh ubuntu@89.169.129.37
 Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.4.0-198-generic x86_64)
